@@ -1,7 +1,7 @@
 <h1>Security-Groups-Least-Privilege</h1>
 
 <h2>Description</h2>
-Project consists of setting up network file shares and permissions and utilizing the concept of least permissions.
+Project consists of setting up network file shares and permissions, utilizing the concept of least privilege.
 <br />
 
 
