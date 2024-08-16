@@ -18,7 +18,7 @@ Project consists of setting up network file shares and permissions, utilizing th
 
 <h1>Network File Sharing and Permissions</h1>
 
-<h3>Step 1: </h3>
+<h3>Step 1: go to the DC and create 4 folders named: read-access, read/write access, no-access, security group</h3>
 <p> </p>
 
 - 
@@ -26,7 +26,7 @@ Project consists of setting up network file shares and permissions, utilizing th
 <br>
 
 
-<h3>Step 2: </h3>
+<h3>Step 2: go to the sharing tab under the properties of the each folder, click share, add the users or groups that need access and set the appropriate permission level based on the principle of least privilege </h3>
 <p></p>
 
 - 
