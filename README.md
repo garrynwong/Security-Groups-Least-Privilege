@@ -7,7 +7,8 @@ Project consists of setting up network file shares and permissions, utilizing th
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Windows Explorer</b> 
+- <b>Windows Explorer</b>
+- <b>Shared Network Files</b> 
 
 <h2>Environments Used </h2>
 
