@@ -34,32 +34,16 @@ Project consists of setting up network file shares and permissions, utilizing th
 <br>
 
 
-<h3>Step 3: </h3>
+<h3>Step 3: verify access or no access and permission level based on the user or group currently logged in </h3>
 <p></p>
 
 - 
 
 <br>
 
-
-
-<h3>Step 4: </h3>
-<p></p>
-
-- 
-
-<br>
-
-
-<h3>Step 5: </h3>
-<p></p>
-
-- 
-
-<br>
 
 
 
 <h2> Final Thoughts </h2>
 
-<p> In closing, the " " project streamlines our  .</p>
+<p> In closing, the "network file shares and permissions" project streamlines our  .</p>
