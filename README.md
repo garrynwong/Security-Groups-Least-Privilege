@@ -38,7 +38,7 @@ _____
 
 
 <h3>Step 3: </h3>
-<p>from a different device and different domain user account, verify access or no access and permission level based on the user or group currently logged in</p>
+<p>from a different device and different domain user account, verify access or no access and permission level based on the user or group currently logged in. if any action is not allowed for your user account, you will need appropriate credentials to make write any changes</p>
 
 
 ![3](https://github.com/user-attachments/assets/997e065f-1536-412b-baba-f327d6e086f3)
